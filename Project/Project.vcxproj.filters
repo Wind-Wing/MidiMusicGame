@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Project.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PianoKey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PianoKeyboard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Picture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Track.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Stave.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Title.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WelcomeDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerLow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ruler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="media_player.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CWMPPlayer4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LearnMoreDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Spray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="midi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MIDIInDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MIDIMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MIDIOutDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortMsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RankDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PianoKey.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PianoKeyboard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Picture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Track.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stave.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Title.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WelcomeDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerLow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ruler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="media_player.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CWMPPlayer4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LearnMoreDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Spray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongMsg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MIDIInDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MIDIOutDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortMsg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RankDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Project.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Project.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\black.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\white.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\track.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\stave.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\title.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\green.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\coordinate.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\frontpage.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\back.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\NumberedMusicalNotation.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ruler.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\arrow1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\arrow2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\arrow.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\blockchangeleft.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\blockchangeright.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\blockleft.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\blockright.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\block.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\block1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\3.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\4.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\5.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\6.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\7.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\8.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\9.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\#.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\b.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\modulationpoint.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\point.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\return.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\rulertext.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\begin.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\challengemode.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\createmode.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\exit.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\learningmode.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\open.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\open.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\challengemode.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\createmode.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\exit.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\learningmode.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\learnmore.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\countdown1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\countdown2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\countdown3.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spray1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spray2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spray3.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\spray4.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="H:\MusicGame\Demo_2.0\Project\Project\res\return.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SCORE.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SPEED_CONTROL_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SPEED_CONTROL_2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SPEED_CONTROL_3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\box.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\Project_1.4\Project\Project\res\back.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\Project_1.2\Project\Project\res\frontpage.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SelectDlgBackGround.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\slctdlgbcgrnd.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="H:\MusicGame\Project_1.4\Project\Project\res\back.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="H:\MusicGame\Project_1.2\Project\Project\res\frontpage.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
